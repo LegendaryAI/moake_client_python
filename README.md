@@ -12,3 +12,9 @@ Install dependencies:
 ```
 python3 -m pip install -r requirements.txt
 ```
+
+Setup config environment variables:
+```
+export MOAKE_HOST=<MOAKE HOST URL>
+export MOAKE_PORT=<MOAKE PORT>
+```

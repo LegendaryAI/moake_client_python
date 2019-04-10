@@ -6,5 +6,5 @@ setup(
     description='The Moake Client for Python',
     url='https://github.com/LegendaryAI/moake_client_python',
     packages=find_packages(exclude=['docs', 'tests*']),
-    install_requires=['python-dotenv', 'requests']
+    install_requires=['requests']
 )
